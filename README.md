@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> My name is <stron>Rayanne</strong>, I'm from Brazil.<br> I'm currently studying EEEP Manoel Mano in <strong>Computer Technician Course</strong>.</p>
-<p align="left">Tools: <strong>Visual Studio Code; HeidiSQL; Apache NetBeans; brModelo.</strong></p>
+<p align="left">Tools: <strong>Visual Studio Code; HeidiSQL; Apache NetBeans; brModelo; Cisco Packet Tracer</strong></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rayanne-melo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rayanne-melo/" height="30" width="40" /></a>
