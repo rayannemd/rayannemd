@@ -13,6 +13,8 @@
 
 [![rayannemd](https://github-readme-stats.vercel.app/api/top-langs/?username=rayannemd&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://visitcount.itsvg.in/api?id=rayannemd/&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!---
 rayannemd/rayannemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
