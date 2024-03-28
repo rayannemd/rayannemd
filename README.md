@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3> Hello Word!<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
-<p align="left"> My name is <stron>Rayanne</strong>, I'm from Brazil.<br> I'm currently studying at EEEP Manoel Mano in <strong>Computer Technician Course</strong>.</p>
+<p align="left"> My name is <strong>Rayanne</strong> and I'm a programing passionate from Brazil.<br> I'm <strong>IT Technician</strong> and majoring in <strong>Information Systems</strong> at UFC.</p>
 <p align="left">Tools: <strong>Visual Studio Code; HeidiSQL; Apache NetBeans; brModelo; Cisco Packet Tracer; Figma.</strong></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
